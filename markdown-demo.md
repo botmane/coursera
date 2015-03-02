@@ -1,2 +1,2 @@
 ## Thi sis a secondary headline
-### this is a tertiary heading
+### This is a tertiary heading
