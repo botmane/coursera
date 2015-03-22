@@ -1,0 +1,1 @@
+# This folder contains all the plots and R code for Project 2 - Exploratory data analysis
